@@ -185,7 +185,7 @@ section#profile img{
 	float:left;
 }
 section#profile p{
-	padding:2em;
+	padding:1em;
 	margin-left:20%;
 }
 
@@ -302,7 +302,7 @@ section#contact{
 	border-bottom: 4em #232323 solid;
 }
 section#contact p{
-	line-height:2em;
+	line-height:1.6em;
 }
 section#contact p span{
 	font-weight: bold;
